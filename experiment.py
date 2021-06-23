@@ -1,4 +1,4 @@
-# %% Import packages and setup training parameters and seed
+# %% Import packages and setup training parameters and seed (this is an interactive python file for VS Code)
 import os.path
 
 import pandas as pd
